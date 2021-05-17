@@ -77,5 +77,5 @@ As imagens utilizadas estão disponíveis na pasta `./assets`
 Inicie seu projeto utilizando esse template no seu github como um repositório público<br>
 Faça um print, gif ou vídeo e compartilhe o resultado no seu Linkedin<br>
 
-Desafio criado por  <a href="https://www.linkedin.com/in/maahjx/">Madu</a> :)
+Desafio criado por  <a href="https://www.linkedin.com/in/maahjx/">Madu</a> <3
 
