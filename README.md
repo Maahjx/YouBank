@@ -2,7 +2,7 @@
 <p align="center">
     <img src="/design/Dashboard.png" alt="Logo" width="1000">
 
-  <h3 align="center">Banco Digital - YouBank by <a href="https://www.linkedin.com/in/emmanuel-messias-535621127/">Madu</a></h3>
+  <h3 align="center">Banco Digital - YouBank by <a href="https://www.linkedin.com/in/maahjx/">Madu</a></h3>
  <br />
 
 <p align="center">
