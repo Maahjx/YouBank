@@ -48,7 +48,7 @@ O modelo final está disponível na pasta "design" e também no link do figma: <
 - Você poderá criar a página de perfil do usúario e uma Navbar na Dashboard para outras opções de navegação.
 
 # Techs: 
-- React.JS, Vue.JS ou se prefirir HTML, CSS e JavaScript
+- React JS, Vue JS ou se prefirir HTML, CSS e JavaScript
 
 # Como começar:
 1 - Use esse template (clicando em Use this template) ou faça um fork deste repositório com o código inicial<br>
@@ -59,11 +59,10 @@ O modelo final está disponível na pasta "design" e também no link do figma: <
 # Dicas
 
 ## Cores:
-Preto: #000;
-Branco: #FFF;
-Cinza: #252525;
+Preto: #000; <br/>
+Branco: #FFF;<br/>
+Cinza: #252525;<br/>
 Cinza escurecido: #1E1E1E;
-
 
 ## Modelo:
 O modelo final desktop e mobile está disponível na pasta `./design` e no <a href="https://www.figma.com/file/IrH9lp39XpdhIMsaU0v9aS/YouBank?node-id=12%3A59">FIGMA</a>
